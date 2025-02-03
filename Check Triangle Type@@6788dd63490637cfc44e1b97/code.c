@@ -8,7 +8,7 @@ int main()
     scanf("%d,"&a);
     scanf("%d",&b);
     scanf("%d",&c);
-    if(a==b && b==c && c==a){
+    if(a==b&& b==c && c==a){
         printf("Equilateral");
 
     }
