@@ -17,7 +17,7 @@ int main()
 
     }
     else if(a<=60){
-        printf("F")
+        printf("F");
     }
     return 0;
 }
