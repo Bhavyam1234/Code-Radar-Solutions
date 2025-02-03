@@ -2,10 +2,8 @@
 
 int main()
 {
-    int a;
-    int b;
-    scanf("%d",&a);
-    scanf("%d",&b);
+    int a,b;
+    scanf("%d",&a,&b);
     if(a<b){
         printf("Profit");
     }
