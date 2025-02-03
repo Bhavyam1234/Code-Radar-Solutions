@@ -2,18 +2,19 @@
 
 int main()
 {
-    int cost price;
-    int selling price;
-    scanf("%d",&cost price);
-    scanf("%d",&selling price);
-    if(cost price<selling price){
+    int a;
+    int b;
+    scanf("%d",&a);
+    scanf("%d",&b);
+    if(a<b){
         printf("Profit");
     }
-    else if(cost price>selling price){
+    else if(a>b){
         printf("Loss");
+
     }
     else{
-        printf("No Profit No Loss");
+        printf("No Profit No loss");
     }
     return 0;
 
