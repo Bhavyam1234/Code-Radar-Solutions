@@ -4,6 +4,8 @@ int main()
 {
     int cost price;
     int selling price;
+    scanf("%d",&cost price);
+    scanf("%d",&selling price);
     if(selling price>cost price){
         printf("Profit");
     }
