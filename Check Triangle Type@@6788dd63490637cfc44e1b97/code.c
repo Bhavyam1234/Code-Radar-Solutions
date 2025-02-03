@@ -8,11 +8,11 @@ int main()
     scanf("%d,"&a);
     scanf("%d",&b);
     scanf("%d",&c);
-    if(a==b && b==c && a==c){
+    if(a==b && b==c && c==a){
         printf("Equilateral");
 
     }
-    else if(a==b || b==c || a==c){
+    else if(a==b || b==c || c==a){
         printf("Isosceles");
     }
     else{
