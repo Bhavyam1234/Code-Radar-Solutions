@@ -28,8 +28,7 @@ int main()
     else{
         printf("Invalid");
     }
-    else{
-        printf("Invalid");
-    }
+    
+    
     return 0;
 }
