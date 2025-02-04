@@ -11,7 +11,7 @@ int main()
         printf("Lowercase");
     }
     else{
-        printf("Mot an alphabet");
+        printf("Not an alphabet");
     }
     return 0;
     
