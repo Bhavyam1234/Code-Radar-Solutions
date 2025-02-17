@@ -3,7 +3,7 @@ int main()
 {
     double a,b;
     char c;
-    scanf("%lf %lf %c",&a,&b,&c)
+    scanf("%lf %lf %c",&a,&b,&c);
     if(c=='+'){
         printf("%.0lf",a+b);
     }
@@ -20,7 +20,7 @@ int main()
         else{
             printf(%0.lf,a/b);
         } 
-        return 0;
+        
 
     }
      
