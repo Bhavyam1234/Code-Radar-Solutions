@@ -20,6 +20,7 @@ int main()
         else{
             printf(%0.lf,a/b);
         } 
+        return 0;
 
     }
      
